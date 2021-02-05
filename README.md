@@ -1,4 +1,5 @@
 # İstatistik
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alone-Person" alt="Alone-Person" /> </p>
 ![Github](https://github-readme-stats.vercel.app/api?username=Alone-Person&show_icons=true&theme=tokyonight)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wioenena-q&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # HAKKIMDA
