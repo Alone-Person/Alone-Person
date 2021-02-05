@@ -4,7 +4,7 @@
 ![Github](https://github-readme-stats.vercel.app/api?username=Alone-Person&show_icons=true&theme=tokyonight)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wioenena-q&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alone-Person" alt="Alone-Person" /> </p>
+
 # HAKKIMDA
 * **Zevk aldığım konular: video düzenlemeleri yapmak ve kod yazmak başka pek zevk aldığım konu yok gibi birşeydir.**
 * **Javascript ve TypeScript ile ugraşıp, bu işlere discord.js ile başlayıp sonra derinlerini merak ederek projeleri inceleyip belli bir seviyeye geldim.**
