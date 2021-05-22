@@ -17,5 +17,6 @@
 **Discord: ! ǟʟօռɛ Ꮰ քɛʀֆօռ#9332**
 
 
-Profilime Kaç Kişi Tıkladı ?
+Profilime Kaç Kişi Tıkladı?
+
 <img src="https://profile-counter.glitch.me/{Alone-Person}/count.svg" />
